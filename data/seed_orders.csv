@@ -1,0 +1,31 @@
+order_id,customer_id,item,category,price,status,order_date,delivered_date
+1001,C001,Wireless Earbuds,electronics,1999.00,delivered,2026-10-28,2026-11-02
+1002,C001,Cotton T-Shirt,clothing,599.00,delivered,2026-10-10,2026-10-15
+1003,C001,Ceramic Mug Set,home,799.00,shipped,2026-11-03,
+1004,C002,Smartwatch,electronics,4999.00,delivered,2026-10-20,2026-10-25
+1005,C002,Denim Jeans,clothing,1499.00,delivered,2026-09-15,2026-09-20
+1006,C002,Face Wash,beauty,349.00,placed,2026-11-05,
+1007,C003,Bluetooth Speaker,electronics,1499.00,delivered,2026-10-30,2026-11-03
+1008,C003,Running Shoes,clothing,2799.00,delivered,2026-10-01,2026-10-06
+1009,C003,Table Lamp,home,999.00,cancelled,2026-10-22,
+1010,C004,Power Bank,electronics,1299.00,delivered,2026-09-25,2026-09-30
+1011,C004,Hoodie,clothing,1299.00,delivered,2026-10-26,2026-10-31
+1012,C004,Perfume,beauty,1799.00,delivered,2026-10-29,2026-11-03
+1013,C005,Mixer Grinder,home,3499.00,delivered,2026-10-18,2026-10-24
+1014,C005,Wireless Earbuds,electronics,1999.00,shipped,2026-11-04,
+1015,C005,Cotton T-Shirt,clothing,599.00,delivered,2026-08-20,2026-08-25
+1016,C006,Bedsheet Set,home,1499.00,delivered,2026-10-27,2026-11-01
+1017,C006,Smartwatch,electronics,4999.00,delivered,2026-10-12,2026-10-17
+1018,C006,Face Wash,beauty,349.00,delivered,2026-10-05,2026-10-09
+1019,C001,Power Bank,electronics,1299.00,delivered,2026-10-29,2026-11-04
+1020,C002,Hoodie,clothing,1299.00,delivered,2026-10-23,2026-10-28
+1021,C003,Ceramic Mug Set,home,799.00,delivered,2026-09-28,2026-10-03
+1022,C004,Bluetooth Speaker,electronics,1499.00,cancelled,2026-10-31,
+1023,C005,Perfume,beauty,1799.00,delivered,2026-10-15,2026-10-20
+1024,C006,Denim Jeans,clothing,1499.00,placed,2026-11-05,
+1025,C001,Table Lamp,home,999.00,delivered,2026-10-19,2026-10-23
+1026,C002,Wireless Earbuds,electronics,1999.00,delivered,2026-11-01,2026-11-05
+1027,C003,Cotton T-Shirt,clothing,599.00,delivered,2026-10-24,2026-10-29
+1028,C004,Mixer Grinder,home,3499.00,shipped,2026-11-02,
+1029,C005,Running Shoes,clothing,2799.00,delivered,2026-10-09,2026-10-14
+1030,C006,Power Bank,electronics,1299.00,delivered,2026-08-30,2026-09-04
